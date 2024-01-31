@@ -1,2 +1,1 @@
-# hacker-news-newsletter
-Hacker News Newsletter
+# NewsHunter
